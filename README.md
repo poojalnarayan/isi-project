@@ -13,9 +13,11 @@ step 2: I read the I_dict (created from step 1 for every query file) and check f
 For both steps 1 and 2, I report the time taken for the in-memory solution. 
 
 Since step 1 is to be only run once, we can get some gains when we have to run with several query files (by taking a space-tradeoff hit, since we store the I_dict on disk)
+
 ----
 
 output of the process_queries.py is present in sample1_output.txt (for input sample1.txt) and sample2_output.txt (for input sample2.txt) 
+
 ----
 
 Here is the progress on the redis front. I have to tell upfront that this is a new thing to me, but looks like a very exciting technology to store and retrieve large blobs of data quickly. 
