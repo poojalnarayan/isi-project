@@ -1,0 +1,917 @@
+reading the identifier queries file ..
+done
+reading the I_dict obj file ..
+done
+--------------------------------------------------------
+top 3 P values and their coverage given the query file
+---
+P3417	0.96
+P4024	0.013333333333333334
+P5242	0.006666666666666667
+---
+reading the gzipped json obj file
+done
+--------------------------------------------------------
+-----------
+Big-Government
+------
+top-1: P3417, Q2985410 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Reksoft
+------
+top-1: P3417, Q4048159 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+British-International-School-of-Cracow
+------
+top-1: P3417, Q4970151 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Nextpage
+------
+top-1: P3417, Q7021252 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Taranagar
+------
+top-1: P3417, Q2248494 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Calhoun-County-AR
+------
+top-1: P3417, Q61461 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Cheltenham-1
+------
+top-1: P3417, Q206988 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Kyungpook-National-University
+------
+top-1: P3417, Q487841 cov: 0.96 
+top-2: NULL
+top-3: P5242, Q487841 cov: 0.01 
+-----------
+York-College-of-Pennsylvania
+------
+top-1: P3417, Q8055408 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Minute-to-Win-It
+------
+top-1: P3417, Q1766797 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Coleambally
+------
+top-1: P3417, Q2509660 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+San-Juan-De-Los-Lagos-Jalisco
+------
+top-1: P3417, Q20143803 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Bondage
+------
+top-1: P3417, Q273972 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Batam
+------
+top-1: P3417, Q10103 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+McAfee-Institute
+------
+top-1: P3417, Q21015808 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+SpongeBob-SquarePants-TV-series
+------
+top-1: P3417, Q83279 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Calorimeter
+------
+top-1: P3417, Q189783 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Fans-device
+------
+top-1: P3417, Q193220 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Humble-TX
+------
+top-1: P3417, Q974345 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Adam-Lallan
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+Feature-Extraction
+------
+top-1: P3417, Q1026626 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Harrison-Central-High-School
+------
+top-1: P3417, Q5665539 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Rohit-Sharma-cricketer
+------
+top-1: P3417, Q3520045 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Geometric-Series
+------
+top-1: P3417, Q1306887 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Kibuli-Secondary-School
+------
+top-1: P3417, Q6404081 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Oakwood-Friends-School
+------
+top-1: P3417, Q7074307 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Valpolicella
+------
+top-1: P3417, Q852467 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+1-1-Dichloroethane
+------
+top-1: P3417, Q161282 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Surface-Engineering
+------
+top-1: P3417, Q11260161 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+CapLinked
+------
+top-1: P3417, Q5034413 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Pride-International-1
+------
+top-1: P3417, Q7242782 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Evolent-Health
+------
+top-1: P3417, Q19879710 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Church-of-Sweden
+------
+top-1: P3417, Q749243 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Elections-BC
+------
+top-1: P3417, Q5354576 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+OVGuide
+------
+top-1: P3417, Q7073152 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+IT-Prof
+------
+top-1: P3417, Q27724405 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Thermosphere
+------
+top-1: P3417, Q178043 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Hendrik-Ido-Ambacht
+------
+top-1: P3417, Q538725 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Staffanstorp
+------
+top-1: P3417, Q504609 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Automotive-Softwar
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+Shahid-Beheshti-University
+------
+top-1: P3417, Q609586 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Chris-Letchford
+------
+top-1: P3417, Q5107226 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Southern-Guilford-High-School
+------
+top-1: P3417, Q7569961 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Politics-of-Minnesota
+------
+top-1: P3417, Q3907430 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Reverse-Dictionary
+------
+top-1: P3417, Q1304223 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Auction-Theory
+------
+top-1: P3417, Q771334 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Primary-Health-Care
+------
+top-1: P3417, Q623543 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Comic-Opera
+------
+top-1: P3417, Q13220650 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Omdurman-Islamic-University
+------
+top-1: P3417, Q7089955 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+WebCT
+------
+top-1: P3417, Q3174811 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+That-70s-Show-TV-series
+------
+top-1: P3417, Q208072 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Hippopotamuses
+------
+top-1: P3417, Q34505 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Inman-Square
+------
+top-1: P3417, Q6035057 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Halo-5-Guardians-2015-game
+------
+top-1: P3417, Q16888147 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Kolej-Universiti-Islam-Antarabangsa-Selangor
+------
+top-1: P3417, Q6427193 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Core-Security-Technologies
+------
+top-1: P3417, Q2331997 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+15-August
+------
+top-1: P3417, Q2774 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Sierra-Atlantic
+------
+top-1: P3417, Q7511321 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Structural-Chemistry
+------
+top-1: P3417, Q15753647 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Guangzhou-No-2-High-School
+------
+top-1: P3417, Q11062111 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Dollar-Shave-Club
+------
+top-1: P3417, Q5289224 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Exnora-International
+------
+top-1: P3417, Q15217112 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Tension-Headache
+------
+top-1: P3417, Q1338684 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+The-Hyderabad-Public-School-Ramanthapur
+------
+top-1: P3417, Q7741192 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Series-Circuits
+------
+top-1: P3417, Q13928914 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Ki-Adi-Mundi
+------
+top-1: P3417, Q54271 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Aerostatics
+------
+top-1: P3417, Q960146 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Software-Defined-Radi
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+Maureen-OHara
+------
+top-1: P3417, Q229276 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Corner-House
+------
+top-1: P3417, Q17501774 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+The-Witcher
+------
+top-1: P3417, Q287637 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Dan-Kaplan-2
+------
+top-1: P3417, Q5213779 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+CyberBunker
+------
+top-1: P3417, Q4036791 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Asian-Tigers
+------
+top-1: P3417, Q4806758 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Focusing-and-Concentrating
+------
+top-1: P3417, Q4818236 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Kuratowskis-Theorem
+------
+top-1: P3417, Q837902 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Politique-Économique
+------
+top-1: P3417, Q582577 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Autolux
+------
+top-1: P3417, Q787071 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Akshay-1
+------
+top-1: P3417, Q25114283 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Todd-Howard-7
+------
+top-1: P3417, Q2606967 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Elephant-Talk
+------
+top-1: P3417, Q2576563 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Chronostasis-1
+------
+top-1: P3417, Q760721 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Mister-Donut
+------
+top-1: P3417, Q1065819 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Bledisloe-Cup
+------
+top-1: P3417, Q641010 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+The-Dalles-Wahtonka-High-School
+------
+top-1: P3417, Q7728756 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+James-Ellsworth-7
+------
+top-1: P3417, Q2899004 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Royal-Belfast-Academical-Institution
+------
+top-1: P3417, Q7373798 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Xenopus
+------
+top-1: P3417, Q654718 cov: 0.96 
+top-2: P4024, Q1342298 cov: 0.01 
+top-3: NULL
+-----------
+Microbial-Ecology
+------
+top-1: P3417, Q3054637 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+East-Providence-RI
+------
+top-1: P3417, Q54268 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Interstitial-Lung-Disease-ILD
+------
+top-1: P3417, Q1153419 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Basque-Conflic
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+MTU-Aero-Engines
+------
+top-1: P3417, Q128929 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Knuckles-fictional-character
+------
+top-1: P3417, Q904189 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+University-of-West-Alabama
+------
+top-1: P3417, Q637346 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Rocket-Studio
+------
+top-1: P3417, Q11350205 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+AVG-Technologies-company
+------
+top-1: P3417, Q2266483 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Old-Hickory-TN
+------
+top-1: P3417, Q7084198 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Crab-1
+------
+top-1: P3417, Q40802 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Mawei
+------
+top-1: P3417, Q1374870 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+John-Dehlin
+------
+top-1: P3417, Q13471670 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Tree-House-1
+------
+top-1: P3417, Q5784194 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+RacingThePlanet
+------
+top-1: P3417, Q7279667 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Law-Enforcement-in-Brazil
+------
+top-1: P3417, Q2262261 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Steven-Tyler
+------
+top-1: P3417, Q194045 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Santiago-Chile
+------
+top-1: P3417, Q2887 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+The-Pitt-News
+------
+top-1: P3417, Q10381699 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+National-Council-on-Strength-Fitness
+------
+top-1: P3417, Q24534547 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Big-Spring-School-District
+------
+top-1: P3417, Q4906434 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Heritage-Foods
+------
+top-1: P3417, Q5738817 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+NRC-School
+------
+top-1: P3417, Q16990168 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Transportation-in-North-America
+------
+top-1: P3417, Q7835245 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Gallows-Humor
+------
+top-1: P3417, Q564910 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Orania
+------
+top-1: P3417, Q141684 cov: 0.96 
+top-2: P4024, Q7099843 cov: 0.01 
+top-3: NULL
+-----------
+Minneapolis-Business-College
+------
+top-1: P3417, Q6867967 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Languages-of-Sri-Lanka
+------
+top-1: P3417, Q3349845 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+THE-REAL-GROUP
+------
+top-1: P3417, Q1269780 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Cargolifter
+------
+top-1: P3417, Q447409 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Bikini-Atol
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+Interns
+------
+top-1: P3417, Q4439148 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Nicktoons
+------
+top-1: P3417, Q18878 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Henan-Normal-University
+------
+top-1: P3417, Q11141537 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+ServerCentral
+------
+top-1: P3417, Q17080159 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Jeffrey-Toobin
+------
+top-1: P3417, Q6176320 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Troxy
+------
+top-1: P3417, Q7846709 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Parsons-WV
+------
+top-1: P3417, Q2054204 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+History-of-Education
+------
+top-1: P3417, Q1062194 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+National-Dental-Centre
+------
+top-1: P3417, Q6972262 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Bilge-Pump
+------
+top-1: P3417, Q358865 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Shasta-Ventures-venture-capital-firm
+------
+top-1: P3417, Q17146934 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Little-Britain
+------
+top-1: P3417, Q279883 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Yeshivat-Shaalvim
+------
+top-1: P3417, Q12408351 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Phosphorus-Pentafluoride
+------
+top-1: P3417, Q414652 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Krishnagiri-Tamil-Nadu
+------
+top-1: P3417, Q1020681 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Usman-Khawaja
+------
+top-1: P3417, Q3524804 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Kovilambakkam
+------
+top-1: P3417, Q6434879 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Metal-Oxide
+------
+top-1: P3417, Q1795231 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Dating-Coac
+------
+top-1: NULL
+top-2: NULL
+top-3: NULL
+-----------
+Turbines
+------
+top-1: P3417, Q130760 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Information-Access
+------
+top-1: P3417, Q593289 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Politechnika-Krakowska-Im-Tadeusza-Kościuszki
+------
+top-1: P3417, Q931642 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Adam-Weishaupt-4
+------
+top-1: P3417, Q159481 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+University-of-Wisconsin-School-of-Medicine-and-Public-Health
+------
+top-1: P3417, Q7896636 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Wait-See
+------
+top-1: P3417, Q2699410 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Tampa-Bay-Downs
+------
+top-1: P3417, Q7681677 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Southern-Arizona-Community-Academy
+------
+top-1: P3417, Q7569631 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Pubs
+------
+top-1: P3417, Q212198 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Damage-Case
+------
+top-1: P3417, Q3701208 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Cobel-Darou
+------
+top-1: P3417, Q5138856 cov: 0.96 
+top-2: NULL
+top-3: NULL
+-----------
+Amorepacific-Corporation
+------
+top-1: P3417, Q490142 cov: 0.96 
+top-2: NULL
+top-3: NULL
+--------------------------------------------------------
+time taken (query search): 273.17 s
+--------------------------------------------------------
