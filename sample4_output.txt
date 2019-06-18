@@ -1,0 +1,39 @@
+reading the identifier queries file ..
+done
+reading the I_dict obj file ..
+done
+reading the gzipped json obj file
+done
+--------------------------------------------------------
+top 3 P values and their coverage given the query file
+---
+--------------------------------------------------------
+top 1: P3417, coverage: 0.9
+--------------------------------------------------------
+Big-Government: Q2985410
+Reksoft: Q4048159
+British-International-School-of-Cracow: Q4970151
+Nextpage: Q7021252
+Taranagar: Q2248494
+Calhoun-County-AR: Q61461
+Cheltenham-10: NULL
+Kyungpook-National-University: Q487841
+York-College-of-Pennsylvania: Q8055408
+Minute-to-Win-It: Q1766797
+--------------------------------------------------------
+top 2: P5242, coverage: 0.1
+--------------------------------------------------------
+Big-Government: NULL
+Reksoft: NULL
+British-International-School-of-Cracow: NULL
+Nextpage: NULL
+Taranagar: NULL
+Calhoun-County-AR: NULL
+Cheltenham-10: NULL
+Kyungpook-National-University: Q487841
+York-College-of-Pennsylvania: NULL
+Minute-to-Win-It: NULL
+--------------------------------------------------------
+time taken (query search): 308.26 s
+--------------------------------------------------------
+
